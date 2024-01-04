@@ -1,0 +1,5 @@
+C:\Users\mbzra\source\repos\Amsi-Hardware-BreakPoints\bin\x64\Release\Amsi-Hardware-BreakPoints.exe.config
+C:\Users\mbzra\source\repos\Amsi-Hardware-BreakPoints\bin\x64\Release\Amsi-Hardware-BreakPoints.exe
+C:\Users\mbzra\source\repos\Amsi-Hardware-BreakPoints\obj\x64\Release\Amsi-Hardware-BreakPoints.csproj.AssemblyReference.cache
+C:\Users\mbzra\source\repos\Amsi-Hardware-BreakPoints\obj\x64\Release\Amsi-Hardware-BreakPoints.csproj.CoreCompileInputs.cache
+C:\Users\mbzra\source\repos\Amsi-Hardware-BreakPoints\obj\x64\Release\Amsi-Hardware-BreakPoints.exe
